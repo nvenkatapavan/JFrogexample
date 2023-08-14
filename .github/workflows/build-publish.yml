@@ -39,5 +39,3 @@ jobs:
           jf rt build-add-git
           # Publish build info
           jf rt build-publish
-          # X-ray scan
-          jf bs
